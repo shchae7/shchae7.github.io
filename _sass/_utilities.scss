@@ -283,9 +283,14 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
+  /* shchae7 customization */
   .fa-medium,
   .fa-medium-square {
     color: $medium-color
+  }
+  .fa-baekjoon,
+  .fa-baekjoon-square {
+    color: $baekjoon-color
   }
 }
 
