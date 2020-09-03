@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-About Me
-========
+
 I'm a 3rd year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software.
 
 
@@ -31,18 +30,18 @@ Experiences
 -----------
 * 07.2020 ~ : Undergraduate Research Fellow
   * Software Verification Lab
-  * Supervisor: Prof.
+  * Supervisor: Prof. Kyungmin Bae (CSE)
 
 * 04.2020 ~ : Back End Developer
-  * Poapper
+  * Poapper (Postech Application Developer Club)
 
 * 03.2020 ~ : Undergraduate Researcher
   * Undergraduate Research Program
-  * Supervisor: Prof.
+  * Supervisor: Prof. Geunbae Lee (CSE)
 
 * 12.2019 ~ 02.2020: Undergraduate Research Fellow
   * Software Verification Lab
-  * Supervisor: Prof.
+  * Supervisor: Prof. Kyungmin Bae (CSE)
 
 * 06.2019 ~ 08.2019: Research and Development Intern
   * Polaris3D
