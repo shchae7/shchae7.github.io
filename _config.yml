@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chaeseunghyun2000/"
+  linkedin         : "https://www.linkedin.com/in/chaeseunghyun2000"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/11808157/shchae7"
+  stackoverflow    : "https://stackoverflow.com/users/11808157/shchae7?tab=profile"
   steam            :
   tumblr           :
   twitter          : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  medium           : "https://medium.com/@seunghyunchae7"
 
 
 # Reading Files
