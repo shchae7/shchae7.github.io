@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+My areas of interest include deep learning verification, satisfiability modulo theories (SMT), automated reasoning. My main focus is on DNN verification utilizing SMT and abstract transformers.
+
+
 Ongoing
 -------
 * DNN Verification using Combination of SMT and Abstract Transformers
