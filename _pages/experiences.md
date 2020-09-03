@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Experiences
-===========
-
 Ongoing
 -------
 - Undergraduate Research Fellow - Software Verification Lab (Summer, 2020)\
