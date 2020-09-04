@@ -77,4 +77,5 @@ Relevant Completed Courses
 Honors & Awards
 ---------------
 - (2018) [South Korea Delegate] for ASC 2018
-- (2020) [Global Leadership Program] Scholarship for academic excellence
+- (03.2020) [Global Leadership Program] Scholarship for academic excellence (From 2-2 to 3-1)
+- (09.2020) [Global Leadership Program] Scholarship for academic excellence (From 3-2 ~ 4)
