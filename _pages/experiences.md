@@ -27,7 +27,7 @@ Ongoing
 
 
 * Backend Developer
-  * Postech Application Developer Club
+  * Postech Application Developer Club (Poapper)
   * Duration: 04.2020 ~
   * Skills: Node.js, MySQL
 
