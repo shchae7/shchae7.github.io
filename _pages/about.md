@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I'm a 3rd year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software.
+I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software.
 
 
 Research Interests
@@ -28,7 +28,7 @@ Education
 
 Experiences
 -----------
-* 07.2020 ~ : Undergraduate Research Fellow
+* 06.2020 ~ : Undergraduate Research Fellow
   * Software Verification Lab
   * Supervisor: Prof. Kyungmin Bae (CSE)
 
@@ -73,6 +73,10 @@ Relevant Completed Courses
 - (CSED331) Algorithms
 - (CSED353) Computer Network
 - (CSED399A,B) Research Participation (Advisor: Dr. Kyungmin Bae)
+- (CSED312) Operating Systems
+- (CSED332) Software Design Methods
+- (CSED499I) Research Project I (Advisor: Dr. Kyungmin Bae)
+- (CSED442) Artificial Intelligence
 
 Honors & Awards
 ---------------

@@ -11,13 +11,6 @@ redirect_from:
 
 Ongoing
 -------
-* Undergraduate Research Fellow
-  * Software Verification Lab
-  * Duration: 06.2020 ~
-  * Advisor: Prof. Kyungmin Bae (CSE)
-  * Details: Working on 'DNN Verification using Combination of SMT and Abstract Transformers'
-
-
 * Undergraduate Student Researcher
   * POSTECH Undergraduate Research Program (UGRP)
   * Duration: 05.2020 ~
@@ -35,6 +28,20 @@ Ongoing
 
 Finished
 --------
+* Undergraduate Research Fellow
+  * Software Verification Lab
+  * Duration: 11.2020 ~ 12.2020
+  * Advisor: Prof. Kyungmin Bae (CSE)
+  * Details: Worked on 'Comparing DNN Verification Techniques and Approaches'
+
+
+* Undergraduate Research Fellow
+  * Software Verification Lab
+  * Duration: 06.2020 ~ 10.2020
+  * Advisor: Prof. Kyungmin Bae (CSE)
+  * Details: Worked on 'DNN Verification using Combination of SMT and Abstract Transformers'
+
+
 * Undergraduate Research Fellow
   * Software Verification Lab
   * Duration: 12.2019 ~ 02.2020

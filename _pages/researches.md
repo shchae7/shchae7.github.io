@@ -14,14 +14,6 @@ My areas of interest include deep learning verification, satisfiability modulo t
 
 Ongoing
 -------
-* DNN Verification using Combination of SMT and Abstract Transformers
-  * Software Verification Lab Research Fellowship Research
-  * Duration: 06.2020 ~
-  * Topic: Satisfiability Module Theories, Abstract Domain, First-Order Logic
-  * Details: Researching a DNN verification mathod through the combinatino of SMT and abstract domain. And through that methond verifying robustness of CNN architectures ...
-  * Github Repo: [veriDNN](https://github.com/shchae7/veriDNN)
-
-
 * Development of TTS Service App with Small Quantities of Voice Data
   * POSTECH Undergraduate Research Program
   * Duration: 06.2020 ~
@@ -33,6 +25,22 @@ Ongoing
 
 Finished
 --------
+* Comparing DNN Verification Techniques and Approaches
+  * Research Project I (Software Verification Lab)
+  * Duration: 11.2020 ~ 12.2020
+  * Topic: DNN Verification Approaches (Reachability, Optimization, Search)
+  * Details: Researching and comparing different DNN verification methods (Reluplex, Marabou, DeepPoly, Neurify, ImageStar) according to utilized analysis approaches.
+  * Slide: [Here]({{site.baseurl}}/pdfs/3_Final_Report_채승현.pdf)
+
+
+* DNN Verification using Combination of SMT and Abstract Transformers
+  * Software Verification Lab Research Fellowship Research
+  * Duration: 06.2020 ~ 10.2020
+  * Topic: Satisfiability Module Theories, Abstract Domain, First-Order Logic
+  * Details: Researching a DNN verification method through the combinatino of SMT and abstract domain. And through that methond verifying robustness of CNN architectures ...
+  * Github Repo: [veriDNN](https://github.com/shchae7/veriDNN)
+
+
 * Modeling and Validation of Raft Using Maude
   * Software Verification Lab Research Fellowship Research
   * Duration: 12.2019 ~ 02.2020
