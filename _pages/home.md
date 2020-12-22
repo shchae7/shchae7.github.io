@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my Homepage!
 
 
-I'm a 3rd year CSE major at [POSTECH](http://postech.ac.kr/eng/).\
+I'm a 4th year CSE major at [POSTECH](http://postech.ac.kr/eng/).\
 Currently an undergraduate research fellow at the [Software Verification Lab](http://sevlab.postech.ac.kr/home/)
 
 
