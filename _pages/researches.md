@@ -30,7 +30,7 @@ Finished
   * Duration: 11.2020 ~ 12.2020
   * Topic: DNN Verification Approaches (Reachability, Optimization, Search)
   * Details: Researching and comparing different DNN verification methods (Reluplex, Marabou, DeepPoly, Neurify, ImageStar) according to utilized analysis approaches.
-  * Slide: [Here]({{site.baseurl}}/pdfs/3_Final_Report_채승현.pdf)
+  * Slide: [Here]({{site.baseurl}}/pdfs/3_Final_Report.pdf)
 
 
 * DNN Verification using Combination of SMT and Abstract Transformers
