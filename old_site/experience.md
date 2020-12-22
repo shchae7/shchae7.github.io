@@ -22,7 +22,7 @@ Member of Poapper (Postech Application Developer Club)
 
 Finished
 --------
-- Undergraduate Research Fellow - [Software Verification Lab](http://sevlab.postech.ac.kr/home/) (Winter, 2019)\
+- Undergraduate Research Fellow - [Software Verification Lab](http://sevlab.postech.ac.kr/index.html) (Winter, 2019)\
 Duration: 12.2019 ~ 02.2020 \
 Advisor: Prof. Kyungmin Bae (CSE)\
 Worked on 'Modeling and Validation of Raft Using Maude'

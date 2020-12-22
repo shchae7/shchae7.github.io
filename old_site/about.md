@@ -20,7 +20,7 @@ Education
 
 Experiences
 -----------
-- 07.2020 ~ : Undergraduate Research Fellow - [Software Verification Lab](http://sevlab.postech.ac.kr/home/)
+- 07.2020 ~ : Undergraduate Research Fellow - [Software Verification Lab](http://sevlab.postech.ac.kr/index.html)
 - 04.2020 ~ : Back End Developer - Poapper
 - 03.2020 ~ : Undergraduate Student Researcher - UGRP
 - 12.2019 ~ 02.2020: Undergraduate Research Fellow - Software Verification Lab
