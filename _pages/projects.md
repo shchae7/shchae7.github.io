@@ -17,3 +17,8 @@ redirect_from:
 * Hand Gesture Classification using darknet
   * Hand gesture classification using darknet, a C deep learning framework.
   * Github Repo: [hand_gesture_classification](https://github.com/shchae7/hand_gesture_classification)
+
+
+* Baekjoon Solutions Repository
+  * Solutions to Baekjoon programming problems.
+  * Github Repo: [baekjoon_sol](https://github.com/shchae7/baekjoon_sol)
