@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-My areas of interest include deep learning verification, satisfiability modulo theories (SMT), automated reasoning. My main focus is on DNN verification utilizing SMT and abstract transformers.
-
+My areas of interest include DNN(Deep Neural Network) verification, satisfiability modulo theories (SMT), automated reasoning.
 
 Ongoing
 -------
+* Comparing DNN Verification Techniques and Approaches - II
+  * Software Verification Lab Research Fellowship Research
+  * Duration: 01.2021 ~
+  * Topic: DNN Verification Approaches (Reachability, Optimization, Search)
+  * Details: Comparing different verification methods based on precision, speed, system/property constraints
+
 * Development of TTS Service App with Small Quantities of Voice Data
   * POSTECH Undergraduate Research Program
   * Duration: 06.2020 ~
@@ -25,7 +30,7 @@ Ongoing
 
 Finished
 --------
-* Comparing DNN Verification Techniques and Approaches
+* Comparing DNN Verification Techniques and Approaches - I
   * Research Project I (Software Verification Lab)
   * Duration: 11.2020 ~ 12.2020
   * Topic: DNN Verification Approaches (Reachability, Optimization, Search)
