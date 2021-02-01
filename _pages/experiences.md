@@ -11,13 +11,11 @@ redirect_from:
 
 Ongoing
 -------
-* Undergraduate Student Researcher
-  * POSTECH Undergraduate Research Program (UGRP)
-  * Duration: 05.2020 ~
-  * Advisor: Prof. Geunbae Lee (CSE)
-  * Position: Team Leader
-  * Details: Working on 'Development of TTS Service App with Small Quantities of Voice Data' as a team of 6
-
+* Undergraduate Research Fellow
+  * Software Verification Lab
+  * Duration: 11.2020 ~ 
+  * Advisor: Prof. Kyungmin Bae (CSE)
+  * Details: Working on 'Comparing DNN Verification Techniques and Approaches - I/II'
 
 * Backend Developer
   * Postech Application Developer Club (Poapper)
@@ -28,11 +26,12 @@ Ongoing
 
 Finished
 --------
-* Undergraduate Research Fellow
-  * Software Verification Lab
-  * Duration: 11.2020 ~ 12.2020
-  * Advisor: Prof. Kyungmin Bae (CSE)
-  * Details: Worked on 'Comparing DNN Verification Techniques and Approaches'
+* Undergraduate Student Researcher
+  * POSTECH Undergraduate Research Program (UGRP)
+  * Duration: 05.2020 ~ 01.2021
+  * Advisor: Prof. Geunbae Lee (CSE)
+  * Position: Team Leader
+  * Details: Worked on 'Development of TTS Service App with Small Quantities of Voice Data' as a team of 6
 
 
 * Undergraduate Research Fellow
