@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software.
+I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software, specifically DNN verification.
 
 
 Research Interests
@@ -23,7 +23,7 @@ Research Interests
 Education
 ---------
 * 02.2018 ~ : B.S in Computer Science and Engineering, *POSTECH*
-* 02.2016 ~ 02.2018: Busan Science High School (Early Graduate)
+* 02.2016 ~ 02.2018: Busan Science High School (Early Graduatation)
 
 
 Experiences
@@ -35,7 +35,7 @@ Experiences
 * 04.2020 ~ : Back End Developer
   * Poapper (Postech Application Developer Club)
 
-* 03.2020 ~ : Undergraduate Researcher
+* 03.2020 ~ 01.2021: Undergraduate Researcher
   * Undergraduate Research Program
   * Supervisor: Prof. Geunbae Lee (CSE)
 
