@@ -19,6 +19,7 @@ Ongoing
   * Topic: DNN Verification Approaches (Reachability, Optimization, Search)
   * Details: Comparing different verification methods based on precision, completeness, speed, and system/property constraints
 
+<br>
 
 Finished
 --------
@@ -30,6 +31,7 @@ Finished
   * Github Repo: [Here](https://github.com/shchae7/UGRP)
   * Slide: [Here]({{site.baseurl}}/pdfs/UGRP_final_poster.pdf)
 
+<br>
 
 * Comparing DNN Verification Techniques and Approaches - I
   * Research Project I (Software Verification Lab)
@@ -38,6 +40,7 @@ Finished
   * Details: Researching and comparing different DNN verification methods (Reluplex, Marabou, DeepPoly, Neurify, ImageStar) according to utilized analysis approaches.
   * Slide: [Here]({{site.baseurl}}/pdfs/3_Final_Report.pdf)
 
+<br>
 
 * DNN Verification using Combination of SMT and Abstract Transformers
   * Software Verification Lab Research Fellowship Research
@@ -46,6 +49,7 @@ Finished
   * Details: Researched a DNN verification method through the combination of SMT and abstract domain/interpreter. And through that methond verifying robustness of FCNN, CNN architectures.
   * Github Repo: [veriDNN](https://github.com/shchae7/veriDNN)
 
+<br>
 
 * Modeling and Validation of Raft Using Maude
   * Software Verification Lab Research Fellowship Research
@@ -55,6 +59,7 @@ Finished
   * Github Repo: [raft_maude](https://github.com/shchae7/raft_maude)
   * Slide: [Here]({{site.baseurl}}/pdfs/modeling-and-validation-of-raft-using-maude.pdf)
 
+<br>
 
 * Handwritten Math Formula Recognition
   * CSED441 'Introduction to Computer Vision' Term Project

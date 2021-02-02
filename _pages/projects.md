@@ -13,11 +13,13 @@ redirect_from:
   * User's guide for Caffe, a deep learning framework
   * Github Repo: [caffe-user-guide](https://github.com/shchae7/caffe-user-guide)
 
+<br>
 
 * Hand Gesture Classification using darknet
   * Hand gesture classification using darknet, a C deep learning framework.
   * Github Repo: [hand_gesture_classification](https://github.com/shchae7/hand_gesture_classification)
 
+<br>
 
 * Baekjoon Solutions Repository
   * Solutions to Baekjoon programming problems.
