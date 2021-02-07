@@ -11,6 +11,10 @@ redirect_from:
 
 Ongoing
 -------
+* Editor/Owner of SW Verifcation & Testing
+  * Medium Publication
+  * Duration: 02.2021 ~
+
 * Undergraduate Research Fellow
   * Software Verification Lab
   * Duration: 11.2020 ~ 

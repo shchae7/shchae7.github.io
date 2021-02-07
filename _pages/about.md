@@ -28,6 +28,9 @@ Education
 
 Experiences
 -----------
+* 02.2021 ~ : Editor/Owner of SW Verifcation & Testing
+  * Medium Publication
+
 * 06.2020 ~ : Undergraduate Research Fellow
   * Software Verification Lab
   * Supervisor: Prof. Kyungmin Bae (CSE)

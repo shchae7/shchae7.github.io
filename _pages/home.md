@@ -7,11 +7,14 @@ redirect_from:
   - /home/
 ---
 
-Welcome to my Homepage!
+Welcome to my Homepage! <br>
+I'm a 4th year Computer Science & Engineering major at [POSTECH](http://postech.ac.kr/eng/).<br><br>
 
 
-I'm a 4th year CSE major at [POSTECH](http://postech.ac.kr/eng/).<br>
-Currently an undergraduate research fellow at the [Software Verification Lab](http://sevlab.postech.ac.kr/index.html)
+Currently Occupations
+---
+- Undergraduate research fellow at the [Software Verification Lab](http://sevlab.postech.ac.kr/index.html)
+- Editor/Owner of [SW Verification & Testing](https://medium.com/sw-verification-testing) Medium Publication
 
 
 <br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
