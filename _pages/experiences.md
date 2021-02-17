@@ -37,7 +37,6 @@ Finished
   * Position: Team Leader
   * Details: Worked on 'Development of TTS Service App with Small Quantities of Voice Data' as a team of 6
 
-<br>
 
 * Undergraduate Research Fellow
   * Software Verification Lab
@@ -45,7 +44,6 @@ Finished
   * Advisor: Prof. Kyungmin Bae (CSE)
   * Details: Worked on 'DNN Verification using Combination of SMT and Abstract Transformers'
 
-<br>
 
 * Undergraduate Research Fellow
   * Software Verification Lab
@@ -53,7 +51,6 @@ Finished
   * Advisor: Prof. Kyungmin Bae (CSE)
   * Details: Worked on 'Modeling and Validation of Raft Using Maude'
 
-<br>
 
 * Research and Development Intern
   * [Polaris3D](http://polaris3d.co)
@@ -61,28 +58,24 @@ Finished
   * Skills: Python, Deep Learning (Caffe, darknet)
   * Details: Developed Deep Learning model for out-of-shelf detection
 
-<br>
 
 * Student Reporter
   * [The Postech Times](http://times.postech.ac.kr/index_eng.html)
   * Duration: 03.2018 ~ 03.2020
   * Example: [Here]({{site.baseurl}}/pdfs/417_eng.pdf)
 
-<br>
 
 * Winter Semester Exchange Student
   * Seoul National University
   * Duration: 12.2018 ~ 01.2019
   * Completed Courses: North Korean Studies
 
-<br>
 
 * Delegate of South Korea
   * ASC 2018
   * Duration: 08.03.2018 ~ 08.10.2018
   * Details: Delegate of South Korea for ASC (Asian Science Camp) 2018 hosted by IBS (Institue for Basic Science) held at Manado, Indonesia
 
-<br>
 
 * Summer Semester Exchange Student
   * Seoul National University

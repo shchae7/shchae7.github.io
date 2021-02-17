@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). I'm interested in automated analysis & verification of safety-critical AI software, specifically DNN verification.
+I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). My main interests is in automated analysis & verification of safety-critical AI software, specifically Deep Neural Network verification.
 
 
 Research Interests
