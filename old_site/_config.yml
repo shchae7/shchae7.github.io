@@ -1,9 +1,0 @@
-name: Seung Hyun Chae
-markdown: kramdown
-baseurl: https://shchae7.github.io
-
-permalink: /blog/:year/:month/:day/:title
-
-#theme: jekyll-theme-cayman
-#title: Welcome to S H Chae's homepage!
-#description: Seung Hyun Chae's homepage
