@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-* Caffe User Guide
-  * User's guide for Caffe, a deep learning framework
-  * Github Repo: [caffe-user-guide](https://github.com/shchae7/caffe-user-guide)
+* DNN Verification Methods Management Repository
+  * Repo containing scripts to install & use various DNN verification methods
+  * Github Repo: [dnn_verification](https://github.com/shchae7/dnn_verification)
 
 <br>
 
-* Hand Gesture Classification using darknet
-  * Hand gesture classification using darknet, a C deep learning framework.
-  * Github Repo: [hand_gesture_classification](https://github.com/shchae7/hand_gesture_classification)
+* Caffe User Guide
+  * User's guide for Caffe, a deep learning framework
+  * Github Repo: [caffe-user-guide](https://github.com/shchae7/caffe-user-guide)
 
 <br>
 

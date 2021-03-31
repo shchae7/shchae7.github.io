@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). My main interests is in automated analysis & verification of safety-critical AI software, specifically Deep Neural Network verification.
-
+I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). My main research interest is in automated analysis & verification of safety-critical AI software, specifically Deep Neural Network verification.
 
 Research Interests
 ------------------
@@ -19,12 +18,25 @@ Research Interests
 - Satisfiability Modulo Theories (SMT)
 - Deep Learning
 
-
 Education
 ---------
 * 02.2018 ~ : B.S in Computer Science and Engineering, *POSTECH*
+* 12.2018 ~ 01.2019: Seoul National University (Winter Semester Exchange)
+* 06.2018 ~ 08.2018: Seoul National University (Summer Semester Exchange)
 * 02.2016 ~ 02.2018: Busan Science High School (Early Graduatation)
 
+Honors & Awards
+---------------
+* Global Leadership Program (GLP)               (09.2020)\
+  Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
+* Gloabl Leadership Program (GLP)               (03.2020)\
+  Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
+* ACS South Korea Representative                (2018)\
+  Delegate of South Korea at ASC 2018
+
+Teaching Experiences
+--------------------
+* 03.2021 ~ : CSE Department SMP (Student Mentor Program) Computer Architecture Mentor
 
 Experiences
 -----------
@@ -35,7 +47,7 @@ Experiences
   * Software Verification Lab
   * Supervisor: Prof. Kyungmin Bae (CSE)
 
-* 04.2020 ~ : Back End Developer
+* 04.2020 ~ 10.2020: Back End Developer
   * Poapper (Postech Application Developer Club)
 
 * 03.2020 ~ 01.2021: Undergraduate Researcher
@@ -52,37 +64,4 @@ Experiences
 * 03.2018 ~ 03.2020: Student Reporter
   * The Postech Times
 
-* 12.2018 ~ 01.2019: Winter Semester Exchange Student
-  * SNU (Seoul National University)
-
-* 06.2018 ~ 08.2018: Summer Semester Exchange Student
-  * SNU
-
 For detailed info visit 'Experiences'
-
-Relevant Completed Courses
---------------------------
-- (CSED232) Object Oriented Programming
-- (CSED233) Data Structure
-- (CSED273) Digital System Design
-- (CSED261) Discrete Math. for Computer Science
-- (IMEN272) Probability & Statistics for Eng.
-- (MATH203) Applied Linear Algebra
-- (CSED211) Intro. to Computer SW Systems
-- (CSED341) Automata & Formal Languages
-- (CSED401) Computer and Society
-- (CSED441) Introduction to Computer Vision
-- (CSED311) Computer Architecture
-- (CSED331) Algorithms
-- (CSED353) Computer Network
-- (CSED399A,B) Research Participation (Advisor: Dr. Kyungmin Bae)
-- (CSED312) Operating Systems
-- (CSED332) Software Design Methods
-- (CSED499I) Research Project I (Advisor: Dr. Kyungmin Bae)
-- (CSED442) Artificial Intelligence
-
-Honors & Awards
----------------
-- (2018) [South Korea Delegate] for ASC 2018
-- (03.2020) [Global Leadership Program] Scholarship for academic excellence (From 2-2 to 3-1)
-- (09.2020) [Global Leadership Program] Scholarship for academic excellence (From 3-2 ~ 4)

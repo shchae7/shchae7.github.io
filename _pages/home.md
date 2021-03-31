@@ -14,6 +14,7 @@ I'm a 4th year Computer Science & Engineering major at [POSTECH](http://postech.
 Currently Occupations
 ---
 - Undergraduate research fellow at the [Software Verification Lab](http://sevlab.postech.ac.kr/index.html)
+- Student Mentor Program Computer Architecture Mentor
 - Editor/Owner of [SW Verification & Testing](https://medium.com/sw-verification-testing) Medium Publication
 
 
