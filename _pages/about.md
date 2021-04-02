@@ -36,7 +36,9 @@ Honors & Awards
 
 Teaching Experiences
 --------------------
-* 03.2021 ~ : CSE Department SMP (Student Mentor Program) Computer Architecture Mentor
+* 03.2021 ~ : Student Mentor Program Mentor
+  * CSE Department SMP
+  * Subject: CSED311 Computer Architecture
 
 Experiences
 -----------

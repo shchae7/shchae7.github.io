@@ -61,7 +61,7 @@ Finished
 * Student Reporter
   * [The Postech Times](http://times.postech.ac.kr/index_eng.html)
   * Duration: 03.2018 ~ 03.2020
-  * Example: [Here]({{site.baseurl}}/_pdfs/417_eng.pdf)
+  * Example: [Here]({{site.baseurl}}/pdfs/417_eng.pdf)
 
 * Delegate of South Korea
   * ASC 2018
