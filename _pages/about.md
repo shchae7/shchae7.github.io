@@ -10,17 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-I'm a 4th year CSE major @[*POSTECH*](http://postech.ac.kr/eng/) (Pohang University of Science and Technology). My main research interest is in automated analysis & verification of safety-critical AI software, specifically Deep Neural Network verification.
+I'm a graduate student pursuing a Ph.D. in Computer Science and Engineering @POSTECH [*Software Verification Lab*](http://sevlab.postech.ac.kr/index.html). My main research interest is in automated analysis & verification of safety-critical AI software, specifically neural network verification.
 
 Research Interests
 ------------------
 - Deep Neural Network Verification
-- Satisfiability Modulo Theories (SMT)
+- Constraint/Contractor Programming
 - Deep Learning
 
 Education
 ---------
-* 02.2018 ~ : B.S in Computer Science and Engineering, *POSTECH*
+* 09.2021 ~        : Ph.D in Computer Science and Engineering, *POSTECH* (Advisor: Kyungmin Bae)
+* 02.2018 ~ 08.2021: B.S in Computer Science and Engineering, *POSTECH* (Early Graduation)
 * 12.2018 ~ 01.2019: Seoul National University (Winter Semester Exchange)
 * 06.2018 ~ 08.2018: Seoul National University (Summer Semester Exchange)
 * 02.2016 ~ 02.2018: Busan Science High School (Early Graduatation)
@@ -28,29 +29,22 @@ Education
 Honors & Awards
 ---------------
 * Global Leadership Program (GLP)               (09.2020)\
-  Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
-* Gloabl Leadership Program (GLP)               (03.2020)\
-  Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
+  - Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
+  - Received at 03.2020, 09.2020
 * ACS South Korea Representative                (2018)\
   Delegate of South Korea at ASC 2018
 
 Teaching Experiences
 --------------------
-* 03.2021 ~ : Student Mentor Program Mentor
+* 03.2021 ~ 06.2021: Student Mentor
   * CSE Department SMP
   * Subject: CSED311 Computer Architecture
 
 Experiences
 -----------
-* 02.2021 ~ : Editor/Owner of SW Verifcation & Testing
-  * Medium Publication
-
-* 06.2020 ~ : Undergraduate Research Fellow
+* 06.2020 ~ 06.2021: Undergraduate Research Fellow
   * Software Verification Lab
   * Supervisor: Prof. Kyungmin Bae (CSE)
-
-* 04.2020 ~ 10.2020: Back End Developer
-  * Poapper (Postech Application Developer Club)
 
 * 03.2020 ~ 01.2021: Undergraduate Researcher
   * Undergraduate Research Program
