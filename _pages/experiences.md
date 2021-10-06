@@ -40,7 +40,6 @@ Finished
 
 - Student Reporter
   - [The Postech Times](http://times.postech.ac.kr/index_eng.html)
-  - [Newspaper]({{site.baseurl}}/pdfs/417_eng.pdf)
   - 03.2018 ~ 03.2020
 
 - ASC South Korea Representative
