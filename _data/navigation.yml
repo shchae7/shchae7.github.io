@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Researches"
-    url: /researches/    
+  - title: "Publications"
+    url: /publications/
 
   - title: "Experiences"
     url: /experiences/    
-
-  - title: "Projects"
-    url: /projects/
