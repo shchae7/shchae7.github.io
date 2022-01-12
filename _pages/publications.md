@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+Domestic Conference Papers
+--------------------------
+[1] J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction for Formally Verifying Deep Neural Networks, Korea Software Congress (KSC), Dec 20-22, 2021 (**Distinguished best paper award**)
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
