@@ -30,7 +30,7 @@ Honors & Awards
 * Korea Software Congress (KSC), Distinguished best paper award, 2021
   - J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction for Formally Verifying Deep Neural Networks
 
-* Winter SDRAAR (Software Disaster Research Center for Agile & Automated Response & Repair) Worksop, Best poster presentation award, 2022
+* Winter SDRAAR (Software Disaster Research Center for Agile & Automated Response & Repair) Workshop, Best poster presentation award, 2022
   - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration
 
 * Global Leadership Program (GLP) (03.2020, 09.2020)
