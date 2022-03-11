@@ -33,7 +33,10 @@ Honors & Awards
 * Winter SDRAAR (Software Disaster Research Center for Agile & Automated Response & Repair) Workshop, Best poster presentation award, 2022
   - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration
 
-* Global Leadership Program (GLP) (03.2020, 09.2020)
+* 방승양 Graduate Fellowship, 2022
+  - Graduate fellowship awarded by Departement of Computer Science and Engineering, POSTECH
+
+* Global Leadership Program (GLP), 03.2020, 09.2020
   - Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
 
 Teaching Experiences
