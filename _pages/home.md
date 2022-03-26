@@ -13,6 +13,7 @@ I'm a graduate student pursuing a Ph.D. in Computer Science and Engineering @POS
 Research Interests
 ------------------
 - Deep Neural Network Verification
+- Model Checking
 
 
 Education
@@ -33,7 +34,7 @@ Honors & Awards
 * Winter SDRAAR (Software Disaster Research Center for Agile & Automated Response & Repair) Workshop, Best poster presentation award, 2022
   - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration
 
-* 방승양 Graduate Fellowship, 2022
+* Bang Seung-yang Graduate Fellowship, 2022
   - Graduate fellowship awarded by Departement of Computer Science and Engineering, POSTECH
 
 * Global Leadership Program (GLP), 03.2020, 09.2020
