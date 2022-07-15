@@ -12,7 +12,7 @@ I'm a graduate student pursuing a Ph.D. in Computer Science and Engineering @POS
 
 Research Interests
 ------------------
-- Deep Neural Network Verification
+- Neural Network Verification
 - Model Checking
 
 
@@ -24,21 +24,6 @@ Education
   - 02.2018 ~ 08.2021 (Early Graduation)
 - Undergraduate Semester Exchange, *Seoul National University*
   - 06.2018 ~ 08.2018, 12.2018 ~ 01.2019
-
-
-Honors & Awards
----------------
-* Korea Software Congress (KSC), Distinguished best paper award, 2021
-  - J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction for Formally Verifying Deep Neural Networks
-
-* Winter SDRAAR (Software Disaster Research Center for Agile & Automated Response & Repair) Workshop, Best poster presentation award, 2022
-  - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration
-
-* Bang Seung-yang Graduate Fellowship, 2022
-  - Graduate fellowship awarded by Departement of Computer Science and Engineering, POSTECH
-
-* Global Leadership Program (GLP), 03.2020, 09.2020
-  - Scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
 
 Teaching Experiences
 --------------------
