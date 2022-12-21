@@ -31,9 +31,3 @@ Teaching Experiences
   - CSE Department SMP(Student Mentor Program)
   - Subject: CSED311 Computer Architecture
   - 03.2021 ~ 06.2021
-
-
-<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
-
-The code for this page can be found in [this repository](https://github.com/shchae7/shchae7.github.io)\
-This template was forked from [this repository](https://github.com/academicpages/academicpages.github.io) 
