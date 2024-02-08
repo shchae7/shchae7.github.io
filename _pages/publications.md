@@ -13,7 +13,7 @@ author_profile: true
 
 International Conference Papers
 -----------------------
-[1] G. Yu, **S. Chae**, S. Moon, and K. Bae, Formal Specification of Trusted Execution Environment APIs, International Conference on Fundamental Approaches to Software Engineering (FASE), 2024
+[1] G. Yu, **S. Chae**, K. Bae, and S. Moon, Formal Specification of Trusted Execution Environment APIs, International Conference on Fundamental Approaches to Software Engineering (FASE), 2024
 
 
 Domestic Conference Papers
