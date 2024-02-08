@@ -25,6 +25,8 @@ Domestic Workshop
 [2] Summer STAAR Workshop, Best presentation award, 2022
   - **S. Chae**, and K. Bae, Conflict-Driven Neural Network Verification
 
+[3] Winter STAAR Workshop, Best presentation award, 2024
+  - **S. Chae**, and K. Bae, Extracing UNSAT Configuration's Core
 
 Scholarship & Fellowship
 --------------------------
