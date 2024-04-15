@@ -13,17 +13,17 @@ author_profile: true
 
 International Conference Papers
 -----------------------
-[1] G. Yu, **S. Chae**, K. Bae, and S. Moon, Formal Specification of Trusted Execution Environment APIs, International Conference on Fundamental Approaches to Software Engineering (FASE), 2024
+[1] G. Yu, **S. Chae**, K. Bae, and S. Moon, Formal Specification of Trusted Execution Environment APIs, International Conference on Fundamental Approaches to Software Engineering (FASE), 2024 [Link](https://link.springer.com/chapter/10.1007/978-3-031-57259-3_5)
 
 
 Domestic Conference Papers
 --------------------------
-[1] J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction for Formally Verifying Deep Neural Networks, Korea Software Congress (KSC), Dec 20-22, 2021 (**Best paper award**)
+[1] J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction for Formally Verifying Deep Neural Networks, Korea Software Congress (KSC), Dec 20-22, 2021 (**Best paper award**) [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035647)
 
 
 Domestic Journal Papers
 -----------------------
-[1] J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction Technique for Effective Formal Verification of Deep Neural Networks, Journal of KIISE, Vol. 49, No. 11, Nov 2022
+[1] J. Yeon, **S. Chae**, and K. Bae, Layered Abstraction Technique for Effective Formal Verification of Deep Neural Networks, Journal of KIISE, Vol. 49, No. 11, Nov 2022 (**Excellent paper award**) [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11158124)
 
 
 {% for post in site.publications reversed %}

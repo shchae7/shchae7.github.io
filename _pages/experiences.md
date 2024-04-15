@@ -12,12 +12,23 @@ redirect_from:
 <!-- Ongoing
 ------- -->
 
-Finished
+Graduate
+--------------------
+- Teaching Assistant
+  - Departement of Computer Science and Engineering, POSTECH
+  - CSED490H Programming Studio (02.2024 ~ )
+  - CSED504 Advanced Operating System (02.2023 ~ 06.2023)
+  - CSED420 Software Verification (02.2022 ~ 06.2022)
+
+Undergraduate
 --------
 - Undergraduate Research Fellow
-  - Software Verification Lab
-  - Advisor: Prof. Kyungmin Bae (CSE)
+  - Software Verification Lab (Advisor: Prof. Kyungmin Bae (CSE))
   - 12.2019 ~ 02.2020, 06.2020 ~ 07.2021
+
+- Undergraduate Student Mentor
+  - Departement of Computer Science and Engineering, POSTECH, SMP(Student Mentor Program)
+  - CSED311 Computer Architecture (03.2021 ~ 06.2021)
 
 - Research and Development Intern
   - [Polaris3D](http://polaris3d.co)

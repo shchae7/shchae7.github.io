@@ -21,13 +21,6 @@ Education
 - Ph.D in Computer Science and Engineering, *POSTECH* (Advisor: Prof. Kyungmin Bae)
   - 09.2021 ~ (Pursuing)
 - B.S in Computer Science and Engineering, *POSTECH*
-  - 02.2018 ~ 08.2021 (Early Graduation)
+  - 02.2018 ~ 08.2021
 - Undergraduate Semester Exchange, *Seoul National University*
   - 06.2018 ~ 08.2018, 12.2018 ~ 01.2019
-
-Teaching Experiences
---------------------
-- Undergraduate Student Mentor
-  - CSE Department SMP(Student Mentor Program)
-  - Subject: CSED311 Computer Architecture
-  - 03.2021 ~ 06.2021
