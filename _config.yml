@@ -85,8 +85,8 @@ author:
   bio              : "CSE major @ POSTECH"
   location         : 
   employer         :
-  pubmed           : "https://scholar.google.com/citations?user=TYfh5esAAAAJ&hl=en"
-  googlescholar    : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=TYfh5esAAAAJ&hl=en"
   email            : "shchae7@postech.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
