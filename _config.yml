@@ -85,7 +85,7 @@ author:
   bio              : "CSE major @ POSTECH"
   location         : 
   employer         :
-  pubmed           : 
+  pubmed           : "https://scholar.google.com/citations?user=TYfh5esAAAAJ&hl=en"
   googlescholar    : 
   email            : "shchae7@postech.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "11808157/shchae7?tab=profile"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -117,8 +117,8 @@ author:
   wikipedia        :
 
   # shchae7 customization
-  medium           : "shchae7"
-  baekjoon         : "shchae7"
+  medium           : 
+  baekjoon         : 
 
 
 # Reading Files

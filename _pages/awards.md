@@ -32,7 +32,7 @@ Scholarship & Fellowship
   - Undergraduate scholarship for academic excellence awarded by Department of Computer Science and Engineering, POSTECH
 
 
-Domestic Workshop
+<!-- Domestic Workshop
 --------------------------
 [1] Summer STAAR Workshop, Best presentation award, 2022
   - **S. Chae**, and K. Bae, Conflict-Driven Neural Network Verification
@@ -41,7 +41,7 @@ Domestic Workshop
   - **S. Chae**, and K. Bae, Extracing UNSAT Configuration's Core
 
 [3] Winter Software Disaster Research Center for Agile & Automated Response & Repair ([STAAR](https://staar2021.github.io/index.html)) Workshop, Distinguished presentation award, 2022
-  - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration
+  - **S. Chae**, and K. Bae, Neural Network Verification using Unsat Configuration -->
 
 
 {% for post in site.publications reversed %}
