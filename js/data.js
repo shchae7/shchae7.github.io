@@ -42,7 +42,7 @@ export const education = [
     degree: 'Ph.D. in Computer Science & Engineering',
     institution: 'POSTECH',
     years: 'Sep. 2021 — Present',
-    detail: 'Ph.D. and M.S. Integrated Course, Advisor: Prof. Kyungmin Bae'
+    detail: 'Integrated M.S./Ph.D. Program, Advisor: Prof. Kyungmin Bae'
   },
   {
     degree: 'B.S. in Computer Science & Engineering',
