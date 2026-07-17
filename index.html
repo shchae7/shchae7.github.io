@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Seunghyun Chae's Homepage.">
+    <title>Seunghyun Chae | PhD Candidate</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <!-- Page Shell Start -->
+    <div class="page">
+      
+      <header class="topbar">
+        <!-- EDIT: The displayed name is populated from js/data.js. -->
+        <a class="wordmark" href="#top" id="wordmark">Academic Homepage</a>
+
+        <div class="topbar-right">
+          <nav aria-label="Main navigation">
+            <a href="#research">Research</a>
+            <a href="#publications">Publications</a>
+            <a href="#service">Service</a>
+          </nav>
+
+          <!-- Theme controls are initialized in js/main.js. -->
+          <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle color theme" title="Toggle color theme">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12Zm0-16v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.7"/>
+            </svg>
+          </button>
+        </div>
+      </header>
+      
+
+      
+      <main id="top">
+        <!-- Profile is rendered from js/data.js. -->
+        <section class="hero" aria-labelledby="name" id="profile"></section>
+
+        <!-- News List Start -->
+        <section aria-labelledby="news-heading">
+          <div class="section-label">01 / Latest</div>
+          <div class="section-content">
+            <h2 id="news-heading">Recent news</h2>
+            <!-- Dynamic news items are injected here. -->
+            <ul class="news-list" id="news-list"></ul>
+          </div>
+        </section>
+        <!-- News List End -->
+
+        <!-- Research List Start -->
+        <section id="research" aria-labelledby="research-heading">
+          <div class="section-label">02 / Research</div>
+          <div class="section-content">
+            <h2 id="research-heading">Research interests</h2>
+            <!-- Dynamic interest items are injected as a numbered vertical list. -->
+            <ul class="interest-grid" id="interest-grid"></ul>
+          </div>
+        </section>
+        <!-- Research List End -->
+
+        <!-- Education Timeline Start -->
+        <section aria-labelledby="education-heading">
+          <div class="section-label">03 / Background</div>
+          <div class="section-content">
+            <h2 id="education-heading">Education</h2>
+            <ul class="education-list" id="education-list"></ul>
+          </div>
+        </section>
+        <!-- Education Timeline End -->
+
+        <!-- Publications Grid Start -->
+        <section id="publications" aria-labelledby="publications-heading">
+          <div class="section-label">04 / Papers</div>
+          <div class="section-content">
+            <h2 id="publications-heading">Publications</h2>
+            <!-- Dynamic publications are injected here. -->
+            <ol class="publication-list" id="publication-list"></ol>
+          </div>
+        </section>
+        <!-- Publications Grid End -->
+
+        <!-- Academic Service Start -->
+        <section id="service" aria-labelledby="service-heading">
+          <div class="section-label">05 / Service</div>
+          <div class="section-content">
+            <h2 id="service-heading">Academic service &amp; teaching</h2>
+            <ul class="service-list" id="service-list"></ul>
+          </div>
+        </section>
+        <!-- Academic Service End -->
+
+        <!-- Awards Start -->
+        <section id="awards" aria-labelledby="awards-heading">
+          <div class="section-label">06 / Awards</div>
+          <div class="section-content">
+            <h2 id="awards-heading">Awards &amp; scholarships</h2>
+            <ul class="service-list" id="awards-list"></ul>
+          </div>
+        </section>
+        <!-- Awards End -->
+
+        <!-- Talks Start -->
+        <section id="talks" aria-labelledby="talks-heading">
+          <div class="section-label">07 / Talks</div>
+          <div class="section-content">
+            <h2 id="talks-heading">Selected talks</h2>
+            <ul class="service-list" id="talks-list"></ul>
+          </div>
+        </section>
+        <!-- Talks End -->
+      </main>
+      
+
+      
+      <footer id="footer"></footer>
+    </div>
+    
+
+    
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

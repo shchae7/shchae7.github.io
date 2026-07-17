@@ -1,0 +1,571 @@
+/* ==================== 1. THEME TOKENS ==================== */
+
+:root {
+  color-scheme: light dark;
+  --bg: #fcfcfb;
+  --surface: #f6f7f6;
+  --text: #1b211f;
+  --muted: #66706c;
+  --line: #dce1de;
+  /* EDIT: Change this hex code to update the primary link and accent color. */
+  --accent: #1e5a4e;
+  --accent-soft: #e6f0ed;
+  --code: #eff2f0;
+  --max-width: 1120px;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #171a19;
+  --surface: #1e2321;
+  --text: #edf0ed;
+  --muted: #a3ada8;
+  --line: #343b38;
+  --accent: #8bc7b4;
+  --accent-soft: #203a34;
+  --code: #202725;
+}
+
+/* ==================== 2. GLOBAL BASE ==================== */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  transition: background-color .28s ease, color .28s ease;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+button {
+  font: inherit;
+}
+
+.page {
+  width: min(calc(100% - 48px), var(--max-width));
+  margin: 0 auto;
+}
+
+/* ==================== 3. NAVIGATION ==================== */
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 74px;
+  border-bottom: 1px solid var(--line);
+}
+
+.wordmark {
+  color: var(--text);
+  font-size: .79rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.topbar-right,
+.topbar nav,
+.contact,
+.paper-links {
+  display: flex;
+  align-items: center;
+}
+
+.topbar-right {
+  gap: 20px;
+}
+
+.topbar nav {
+  gap: 17px;
+}
+
+.topbar nav a {
+  color: var(--muted);
+  font-size: .83rem;
+  text-decoration: none;
+}
+
+.theme-toggle {
+  width: 35px;
+  height: 35px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition: border-color .2s, background-color .2s;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.theme-toggle svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ==================== 4. TYPOGRAPHY & HERO ==================== */
+
+.hero {
+  /* Creates a two-column layout: text on the left, portrait on the right. */
+  display: grid;
+
+  /* The text column fills available space; the portrait column stays 220px wide. */
+  grid-template-columns: 1fr 220px;
+
+  /* Controls the empty horizontal space between the text and portrait columns. */
+  gap: 32px;
+
+  /* Vertically centers the text and portrait within this section. */
+  align-items: center;
+
+  /* Controls breathing room: 92px above, 76px below, and 0 on the sides. */
+  padding: 92px 0 76px;
+
+  border-top: 0;
+}
+
+.eyebrow,
+.section-label,
+.date {
+  color: var(--muted);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: .73rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 700px;
+  margin: 12px 0 17px;
+
+  /*
+    EDIT THIS VALUE: Lower this number to make the name smaller
+    (e.g., change to 2.2rem or adjust clamp parameters).
+
+    clamp(minimum, preferred, maximum):
+    - 2.7rem is the smallest possible name size on narrow screens.
+    - 6vw lets the size scale with the viewport width.
+    - 5rem is the largest possible name size on wide screens.
+
+    To make the name consistently smaller, lower the minimum and maximum.
+    To make its scaling less dramatic, lower the middle 6vw value.
+  */
+  font-size: clamp(1rem, 4.5vw, 2.5rem);
+
+  font-weight: 650;
+  letter-spacing: -.065em;
+  line-height: .98;
+}
+
+h2 {
+  font-size: 1.72rem;
+  font-weight: 620;
+  letter-spacing: -.04em;
+  line-height: 1.15;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.35;
+  margin-bottom: 4px;
+}
+
+.hero-intro {
+  max-width: 760px;
+  color: var(--text);
+  font-size: 1.08rem;
+  margin-bottom: 10px;
+}
+
+.hero-intro strong {
+  color: var(--text);
+  font-weight: 630;
+}
+
+.hero-summary {
+  max-width: 760px;
+  margin: 0 0 18px;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.contact {
+  flex-wrap: wrap;
+  gap: 8px 17px;
+  margin-top: 28px;
+}
+
+.contact a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: .88rem;
+  text-decoration: none;
+}
+
+.contact svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+/* Portrait container for the profile image. */
+.portrait {
+  width: 200px;
+  aspect-ratio: 1;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--surface);
+  position: relative;
+  flex-shrink: 0;
+}
+
+.portrait img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* ==================== 5. SHARED SECTION LAYOUT ==================== */
+
+main {
+  padding-bottom: 90px;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 48px;
+  padding: 42px 0;
+  border-top: 1px solid var(--line);
+}
+
+.section-label {
+  padding-top: 5px;
+}
+
+.section-content {
+  min-width: 0;
+}
+
+.news-list,
+.education-list,
+.service-list,
+.publication-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* ==================== 6. NEWS & RESEARCH ==================== */
+
+.news-list li {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 22px;
+  padding: 0 0 15px;
+}
+
+.date {
+  padding-top: 3px;
+  white-space: nowrap;
+}
+
+/* A minimalist indexed stack, aligned with the publication and news lists. */
+.interest-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.interest {
+  display: grid;
+  grid-template-columns: 35px minmax(0, 1fr);
+  gap: 0;
+  padding: 0 0 28px;
+}
+
+.interest:last-child {
+  padding-bottom: 0;
+}
+
+.interest p {
+  color: var(--muted);
+  font-size: .9rem;
+  line-height: 1.5;
+  margin: 6px 0 0;
+}
+
+.interest-index {
+  color: var(--muted);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: .73rem;
+  padding-top: 4px;
+}
+
+/* ==================== 7. EDUCATION TIMELINE ==================== */
+
+.education-list {
+  border-left: 1px solid var(--line);
+  margin-left: 5px;
+}
+
+.education-item {
+  position: relative;
+  padding: 0 0 35px 30px;
+}
+
+.education-item:last-child {
+  padding-bottom: 0;
+}
+
+.education-item::before {
+  content: "";
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  border: 2px solid var(--accent);
+  border-radius: 50%;
+  background: var(--bg);
+  left: -6px;
+  top: 7px;
+}
+
+.item-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: baseline;
+}
+
+.institution,
+.detail {
+  color: var(--muted);
+}
+
+.detail {
+  font-size: .91rem;
+  margin: 5px 0 0;
+}
+
+.years {
+  color: var(--muted);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: .75rem;
+  white-space: nowrap;
+}
+
+/* ==================== 8. PUBLICATIONS ==================== */
+
+.publication-list {
+  counter-reset: papers;
+}
+
+.publication {
+  counter-increment: papers;
+  position: relative;
+  padding: 0 0 31px 35px;
+}
+
+.publication::before {
+  content: counter(papers, decimal-leading-zero);
+  color: var(--muted);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: .73rem;
+  left: 0;
+  position: absolute;
+  top: 5px;
+}
+
+.publication-title {
+  color: var(--text);
+  font-weight: 650;
+}
+
+.authors,
+.venue {
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+.authors {
+  margin: 3px 0;
+}
+
+.authors strong {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.venue {
+  font-size: .9rem;
+}
+
+.paper-links {
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  margin-top: 8px;
+  align-items: center;
+}
+
+.award-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .01em;
+}
+
+.paper-links a {
+  color: var(--accent);
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size: .78rem;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* ==================== 9. SERVICE & FOOTER ==================== */
+
+.service-list li {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.service-list li:first-child {
+  padding-top: 0;
+}
+
+.service-role {
+  font-weight: 650;
+}
+
+.service-meta {
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: .7rem;
+  padding: 24px 0 36px;
+}
+
+/* ==================== 10. MOBILE LAYOUT ==================== */
+
+@media (max-width: 700px) {
+  .page {
+    width: min(calc(100% - 34px), var(--max-width));
+  }
+
+  .topbar nav {
+    display: none;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 34px;
+    padding: 64px 0 54px;
+  }
+
+  .portrait {
+    width: 142px;
+    order: -1;
+  }
+
+  .portrait::before {
+    transform: scale(.72);
+    transform-origin: top left;
+    top: 28px;
+    left: 52px;
+  }
+
+  .portrait::after {
+    transform: scale(.72);
+    transform-origin: top left;
+    bottom: 17px;
+    left: 36px;
+  }
+
+  .portrait-label {
+    bottom: 7px;
+    font-size: .49rem;
+  }
+
+  section {
+    display: block;
+    padding: 38px 0;
+  }
+
+  .section-label {
+    margin-bottom: 18px;
+  }
+
+  .news-list li {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+
+  .item-top {
+    display: block;
+  }
+
+  .years {
+    display: block;
+    margin-top: 5px;
+  }
+
+  footer {
+    display: block;
+    line-height: 2;
+  }
+}
