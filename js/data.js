@@ -58,10 +58,10 @@ export const education = [
 export const publications = [
   {
     title: 'An Activation Property-Based Framework for Efficient Neural Network Verification',
-    // url: '#',
+    url: 'https://doi.org/10.1109/ICST69053.2026.00011',
     authors: [{ name: 'S. Chae', me: true }],
     venue: 'International Conference on Software Testing, Verification, and Validation (ICST) Doctoral Symposium',
-    year: '2026 (to appear)',
+    year: '2026',
     links: []
   },
   {
@@ -81,7 +81,7 @@ export const publications = [
     venue: 'Journal of KIISE, Vol. 49, No. 11 (in Korean)',
     year: '2022',
     award: 'Excellent Paper Award',
-    links: [{ label: 'Paper', url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11158124' }]
+    links: []
   },
   {
     title: 'Layered Abstraction for Formally Verifying Deep Neural Networks',
@@ -90,7 +90,7 @@ export const publications = [
     venue: 'Korea Software Congress (KSC) (in Korean)',
     year: '2021',
     award: 'Best Paper Award',
-    links: [{ label: 'Paper', url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035647' }]
+    links: []
   }
 ];
 
