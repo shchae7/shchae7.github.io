@@ -57,6 +57,14 @@ export const education = [
 // Use { name: '...', me: true } to render your name in bold.
 export const publications = [
   {
+    title: 'Formal Specification of Trusted Execution Environment APIs and Model Checking of Trusted Applications',
+    // url: '',
+    authors: [{ name: 'G. Yu' }, { name: 'S. Chae', me: true }, { name: 'K. Bae' }, { name: 'S. Moon' }, { name: 'S. Kim' }],
+    venue: 'Formal Aspects of Computing (FAC)',
+    year: 'To Appear',
+    links: []
+  },  
+  {
     title: 'An Activation Property-Based Framework for Efficient Neural Network Verification',
     url: 'https://doi.org/10.1109/ICST69053.2026.00011',
     authors: [{ name: 'S. Chae', me: true }],
@@ -78,7 +86,7 @@ export const publications = [
     title: 'Layered Abstraction Technique for Effective Formal Verification of Deep Neural Networks',
     url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11158124',
     authors: [{ name: 'J. Yeon' }, { name: 'S. Chae', me: true }, { name: 'K. Bae' }],
-    venue: 'Journal of KIISE, Vol. 49, No. 11 (in Korean)',
+    venue: 'Journal of KIISE (JOK), Vol. 49, No. 11 (in Korean)',
     year: '2022',
     award: 'Excellent Paper Award',
     links: []
