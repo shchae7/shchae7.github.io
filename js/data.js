@@ -113,7 +113,7 @@ export const service = [
 
 // Stored here for completeness. The current template does not render Awards or Talks sections.
 export const awards = [
-  { title: 'ETAPS 2024 Student Scholarship', date: 'Feb. 2024', organization: 'ETAPS e.V. and University of Luxembourg' },
+  { title: 'ETAPS 2024 Student Scholarship', date: 'Feb. 2024', organization: 'ETAPS and University of Luxembourg' },
   { title: 'Excellent Paper Award', date: 'Nov. 2022', organization: 'Journal of KIISE' },
   { title: 'Best Paper Award', date: 'Dec. 2021', organization: 'Korea Software Congress (KSC)' },
   { title: 'Bang Seung-yang Graduate Fellowship', date: '2022', organization: 'Department of CSE, POSTECH' },
