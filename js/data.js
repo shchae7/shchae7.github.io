@@ -58,10 +58,10 @@ export const education = [
 export const publications = [
   {
     title: 'Formal Specification of Trusted Execution Environment APIs and Model Checking of Trusted Applications',
-    // url: '',
+    url: 'https://doi.org/10.1145/3837076',
     authors: [{ name: 'G. Yu' }, { name: 'S. Chae', me: true }, { name: 'K. Bae' }, { name: 'S. Moon' }, { name: 'S. Kim' }],
     venue: 'Formal Aspects of Computing (FAC)',
-    year: 'To Appear',
+    year: '2026',
     links: []
   },  
   {
